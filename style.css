@@ -1,0 +1,32 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start,#numberOfObjects,#Status
+{
+    font-size: 18px;
+}
+.danger
+{
+    position: fixed;
+    color: red;
+    background-color: turquoise;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    font-size: 24px;
+    text-align: center;
+}
+canvas
+{
+    border: 2px solid powderblue;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px plum;
+}
